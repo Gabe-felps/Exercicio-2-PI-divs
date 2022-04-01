@@ -1,0 +1,156 @@
+/*Exercício 1*/
+.A1{
+    background-color: #FF0000;
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+}
+
+.B1{
+    background-color: black;
+    width: 50%;
+    height: 50vh;
+    border: #FF0000 10px dashed;
+    margin: 100px 0 0 100px;
+}
+
+/*Exercício 2*/
+.A2{
+    background-color: rgb(200, 162, 200);
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.B2{
+    background-color: #FFC0CB;
+    width: 250px;
+    height: 100%;
+    border: #FF0000 solid 20px;
+}
+
+.C2{
+    background-color: #7FFFD4;
+    width: 30%;
+    height: 88%;
+}
+
+/*Exercício 3*/
+.B3{
+    background-color: #FFFFFF;
+    width: 50vw;
+    height: 500px;
+    border: #000000 dotted 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.C3{
+    background-color: #FFFF00;
+    width: 30%;
+    height: 50px;
+}
+
+.D3{
+    background-color: rgb(255, 140, 0);
+    width: 30%;
+    height: 100px;
+}
+
+.E3{
+    background-color: rgb(0, 128, 0);
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}
+
+/*Desafio*/
+
+.box1{
+    background-color: #915C5C;
+    width: 75%;
+    height: 380px;
+    border: 20px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1-1{
+    background-color: #FFFFFF;
+    color: #0000FF;
+    width: 80%;
+    height: 65%;
+    border: 20px solid #050556;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    font-family: Arial;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.container{
+    width: 100%;
+    height: 150px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 80px 0 80px 0;
+}
+
+.line{
+    height: 40px;
+}
+
+.line1{
+    background-color: #0000FF;
+    width: 70%
+}
+
+.line2{
+    background-color: #800080;
+    width: 40%;
+}
+
+.line3{
+    background-color: #008000;
+    width: 60%;
+}
+
+.line4{
+    background-color: #FFFF00;
+    width: 50%
+}
+
+.line5{
+    background-color: #000000;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.line5-1{
+    background-color: #FF0000;
+    width: 45%;
+    height: 100%;
+}
+
+.line5-2{
+    background-color: #007C80;
+    width: 20%;
+    height: 100%;
+}
+
+.line5-3{
+    background-color: #01FF00;
+    width: 35%;
+    height: 100%;
+}
